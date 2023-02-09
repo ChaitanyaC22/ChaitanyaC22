@@ -1,4 +1,4 @@
-# Hi, I am Chaitanya Chaudhari!✨
+# Hi 👋, I am Chaitanya Chaudhari!
 Welcome to my GitHub profile 🙏🏼
 
 ---
