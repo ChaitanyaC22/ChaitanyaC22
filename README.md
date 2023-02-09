@@ -25,8 +25,23 @@ With a focus on data science and machine learning, I am committed to making a po
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ChaitanyaC22)
 [![Tableau](https://img.shields.io/badge/-Tableau-0073C2?style=flat-square&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/chaitanyac22)
 
+
 ---
-## Languages, Libraries, Tools and Frameworks:<br>
+## Domains of Interests & Expertise
+:comet: Statistics <br>
+:comet: Data Science <br>
+:comet: Machine Learning <br>
+:comet: Artificial Intelligence <br>
+:comet: Computer Vision <br>
+:comet: Deep Learning <br>
+:comet: Mathematics <br>
+:comet: NLP
+
+---
+## Skills 
+
+
+### Languages, Libraries, Tools and Frameworks:<br>
 <br>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" height="30">
@@ -59,19 +74,6 @@ With a focus on data science and machine learning, I am committed to making a po
 </p>
 
 ---
-## Domains of Interests & Expertise
-:comet: Statistics <br>
-:comet: Data Science <br>
-:comet: Machine Learning <br>
-:comet: Artificial Intelligence <br>
-:comet: Computer Vision <br>
-:comet: Deep Learning <br>
-:comet: Mathematics <br>
-:comet: NLP
-
----
-## Skills 
-
 ### 💻 Programming
 
 [![Python](https://img.shields.io/badge/Python-3.9.4-blue.svg)](https://www.python.org/downloads/release/python-394/)
