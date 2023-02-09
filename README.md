@@ -1,4 +1,5 @@
-# Hi 👋, I am Chaitanya Chaudhari!
+# Hi 👋🏼, I am Chaitanya Chaudhari!
+
 Welcome to my GitHub profile 🙏🏼
 
 ---
@@ -166,8 +167,9 @@ With a focus on data science and machine learning, I am committed to making a po
 
 ---
 ![Chaitanya Chaudhari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaC22&show_icons=true&theme=midnight-purple)
+<br>
 ![Snake animation](https://github.com/ChaitanyaC22/ChaitanyaC22/blob/output/github-contribution-grid-snake.svg)
-
+<br><br>
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
 ---
