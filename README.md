@@ -57,7 +57,6 @@ With a focus on data science and machine learning, I am committed to making a po
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30">
   <img src="https://www.tensorflow.org/images/tf_logo_transp.png" height="30">
-  <br><br>
   <img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="30">
   <img src="https://www.nicepng.com/png/detail/400-4009326_logo-rasa-nlu.png" alt="Logo - Rasa Nlu@nicepng.com" height="30">
