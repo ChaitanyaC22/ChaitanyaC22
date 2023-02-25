@@ -17,7 +17,7 @@ Welcome to my GitHub profile 🙏🏼
 
 As a passionate machine learning engineer and data scientist, I am driven by the potential of technology to address complex challenges. With a strong background in statistics, machine learning, artificial intelligence, computer vision, deep learning, mathematics, and NLP, I am constantly improving my skills and deepening my understanding in these areas. I place a strong emphasis on delivering quality outcomes while recognizing the importance of continuous learning and growth. 
 <br><br>
-With a focus on data science and machine learning, I am committed to making a positive difference. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under repositories)* and Tableau. I am grateful for opportunities to grow as a professional and showcase my expertise and commitment to making a lasting impact. If you share my vision and wish to collaborate, feel free to reach out at 📫 cchaudha@usc.edu
+With a focus on data science and machine learning, I am committed to making a positive difference. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/ChaitanyaC22?tab=repositories))* and Tableau. I am grateful for opportunities to grow as a professional and showcase my expertise and commitment to making a lasting impact. If you share my vision and wish to collaborate, feel free to reach out at 📫 cchaudha@usc.edu
 
 
 #### Professional Links:
