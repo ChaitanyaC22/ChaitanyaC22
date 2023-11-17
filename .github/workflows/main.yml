@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2  # Update to a version supporting Node.js 16
+        uses: actions/checkout@v4  # Update to a version supporting Node.js 16
 
       - name: Generate Snake
         uses: Platane/snk@master
@@ -32,7 +32,7 @@ jobs:
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3  # Use the latest version
+        uses: crazy-max/ghaction-github-pages@v4  # Use the latest version
         with:
           target_branch: output
           build_dir: dist
