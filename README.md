@@ -10,7 +10,7 @@ Welcome to my GitHub profile 🙏🏼
 
 ### Machine Learning Engineer | Data Scientist
 
-*An enthusiastic and seasoned professional leveraging the power of data and machine learning to resolve intricate problems.*<br><br>
+*An enthusiastic and seasoned professional leveraging the power of data and machine learning to resolve intricate problems.*<br>
 
 🔭 **Innovating:** *Unleashing data alchemy as a Data Maverick.*
 
