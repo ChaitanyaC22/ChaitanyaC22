@@ -16,8 +16,6 @@ Welcome to my GitHub profile 🙏🏼
 
 🌱 **Absorbing:** *Soaking up the latest data sorcery for transformative insights.*
 
-👯 **Co-creating:** *Conjuring unconventional data-driven escapades.*
-
 💬 **Contemplating:** *Exploring the enigmatic realm of data's hidden symphony.*
 
 📧 **Reach Out:** *Contact me via email at cchaudha@usc.edu.*
