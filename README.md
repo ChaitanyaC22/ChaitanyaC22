@@ -10,7 +10,18 @@ Welcome to my GitHub profile 🙏🏼
 
 ### Machine Learning Engineer | Data Scientist
 
-*An enthusiastic and seasoned professional leveraging the power of data and machine learning to resolve intricate problems.*
+*An enthusiastic and seasoned professional leveraging the power of data and machine learning to resolve intricate problems.*<br>
+
+🔭 **Innovating:** *Unleashing data alchemy as a Data Maverick.*
+
+🌱 **Absorbing:** *Soaking up the latest data sorcery for transformative insights.*
+
+💬 **Contemplating:** *Exploring the enigmatic realm of data's hidden symphony.*
+
+📧 **Reach Out:** *Contact me via email at cchaudha@usc.edu.*
+
+⚡ **Zephyr-chaser:** *Pursuing diverse data realms with a whimsical flair!*
+
 
 ---
 ### Profile Summary
@@ -46,6 +57,7 @@ With a focus on data science and machine learning, I am committed to making a po
 <br>
 <p align="center">
     <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
+    <img src="./Images/Icons/pyspark_logo.PNG" height="30">
     <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
     <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
     <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
@@ -53,6 +65,7 @@ With a focus on data science and machine learning, I am committed to making a po
     <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
+    <img src="./Images/Icons/SAP_HANA.png" height="30">
     <img src="./Images/Icons/195px-OpenCV_Logo_with_text.png" height="30">
     <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
     <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
@@ -70,6 +83,8 @@ With a focus on data science and machine learning, I am committed to making a po
     <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
     <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
     <img src="./Images/Icons/Heroku_logo.svg.png" height="30">
+    <img src="./Images/Icons/Hugging_Face_logo.svg" height="30">
+    <img src="./Images/Icons/langchain_logo.png" height="30">
   <br>
 </p>
 
@@ -77,6 +92,7 @@ With a focus on data science and machine learning, I am committed to making a po
 ### 💻 Programming
 
 [![Python](https://img.shields.io/badge/Python-3.9.4-blue.svg)](https://www.python.org/downloads/release/python-394/)
+[![PySpark](https://img.shields.io/badge/PySpark-3.2.1-blue.svg)](https://spark.apache.org/docs/latest/api/python/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green.svg)](https://pandas.pydata.org/)
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
@@ -87,6 +103,7 @@ With a focus on data science and machine learning, I am committed to making a po
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.24-4479A1.svg)](https://dev.mysql.com/doc/refman/8.0/en/)
+[![SAP HANA SQL](https://img.shields.io/badge/SAP%20HANA%20SQL-2.0.05-006BB8.svg)](https://help.sap.com/docs/SAP_HANA_PLATFORM/4fe29514fd584807ac9f2a04f6754767/0861a5d054e2464da4f5b50e5a96628e.html?version=2.0.05)
 ---
 ### 📷 Image Processing
 
@@ -177,6 +194,7 @@ Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
 <!--
 **ChaitanyaC22/ChaitanyaC22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
