@@ -4,9 +4,11 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ## About Me:
+<!--
 <p align="left">
   <img src="https://github.com/ChaitanyaC22/ChaitanyaC22/blob/main/Images/Chaitanya_Chaudhari_Profile_Pic.jpg" width="200" height="200">
 </p>
+-->
 
 ### Machine Learning Engineer | Data Scientist
 
