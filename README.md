@@ -56,35 +56,35 @@ With a focus on data science and machine learning, I am committed to making a po
 ### Languages, Libraries, Tools and Frameworks:<br>
 <br>
 <p align="center">
-    <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
-    <img src="./Images/Icons/pyspark_logo.PNG" height="30">
-    <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
-    <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
-    <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
-    <img src="./Images/Icons/statsmodels-logo-v2.svg" height="30">
-    <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
-    <img src="./Images/Icons/postgreSQL.png" height="30">
-    <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
-    <img src="./Images/Icons/SAP_HANA.png" height="30">
-    <img src="./Images/Icons/195px-OpenCV_Logo_with_text.png" height="30">
-    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
-    <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
-    <img src="./Images/Icons/seaborn_logo.svg" height="30">
-    <img src="./Images/Icons/Tensorflow_logo.png" height="30">
-    <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
-    <img src="./Images/Icons/400-4009326_logo-rasa-nlu.png" height="30">
-    <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
-    <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
-    <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
-    <img src="./Images/Icons/Twilio-logo-red.svg.png" height="30">
-    <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30">
-    <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30">
-    <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30">
-    <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
-    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
-    <img src="./Images/Icons/Heroku_logo.svg.png" height="30">
-    <img src="./Images/Icons/Hugging_Face_logo.svg" height="30">
-    <img src="./Images/Icons/langchain_logo.png" height="30">
+    <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="50">
+    <img src="./Images/Icons/pyspark_logo.PNG" height="50">
+    <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="50">
+    <img src="./Images/Icons/Pandas_logo.svg.png" height="50">
+    <img src="./Images/Icons/scikit-learn-logo-small.png" height="50">
+    <img src="./Images/Icons/statsmodels-logo-v2.svg" height="50">
+    <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="50">
+    <img src="./Images/Icons/postgreSQL.png" height="50">
+    <img src="./Images/Icons/MySQL_textlogo.svg.png" height="50">
+    <img src="./Images/Icons/SAP_HANA.png" height="50">
+    <img src="./Images/Icons/195px-OpenCV_Logo_with_text.png" height="50">
+    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="50">
+    <img src="./Images/Icons/Matplotlib_logo.svg" height="50">
+    <img src="./Images/Icons/seaborn_logo.svg" height="50">
+    <img src="./Images/Icons/Tensorflow_logo.png" height="50">
+    <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="50">
+    <img src="./Images/Icons/400-4009326_logo-rasa-nlu.png" height="50">
+    <img src="./Images/Icons/SageMaker-300x150.jpg" height="50">
+    <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="50">
+    <img src="./Images/Icons/Git-Logo-2Color.png" height="50">
+    <img src="./Images/Icons/Twilio-logo-red.svg.png" height="50">
+    <img src="./Images/Icons/Trello-logo-blue.svg.png" height="50">
+    <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="50">
+    <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="50">
+    <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="50">
+    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="50">
+    <img src="./Images/Icons/Heroku_logo.svg.png" height="50">
+    <img src="./Images/Icons/Hugging_Face_logo.svg" height="50">
+    <img src="./Images/Icons/langchain_logo.png" height="90" width="180">
   <br>
 </p>
 
