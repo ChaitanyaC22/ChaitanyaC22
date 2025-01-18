@@ -84,7 +84,7 @@ With a focus on data science and machine learning, I am committed to making a po
     <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
     <img src="./Images/Icons/Heroku_logo.svg.png" height="30">
     <img src="./Images/Icons/Hugging_Face_logo.svg" height="30"><br>
-    <img src="./Images/Icons/langchain_logo.png" height="50" width="120">
+    <img src="./Images/Icons/langchain_logo.png" height="30">
   <br>
 </p>
 
