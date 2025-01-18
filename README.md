@@ -57,6 +57,7 @@ With a focus on data science and machine learning, I am committed to making a po
 <br>
 <p align="center">
     <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/PySpark_logo.png" height="30">
     <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
     <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
     <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
