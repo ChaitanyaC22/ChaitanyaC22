@@ -57,7 +57,7 @@ With a focus on data science and machine learning, I am committed to making a po
 <br>
 <p align="center">
     <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/PySpark_logo.png" height="30">
+    <img src="./Images/Icons/pyspark_logo.PNG" height="30">
     <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
     <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
     <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
@@ -83,6 +83,8 @@ With a focus on data science and machine learning, I am committed to making a po
     <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
     <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
     <img src="./Images/Icons/Heroku_logo.svg.png" height="30">
+    <img src="./Images/Icons/Hugging_Face_logo.svg" height="30">
+    <img src="./Images/Icons/langchain_logo.png" height="30">
   <br>
 </p>
 
@@ -90,6 +92,7 @@ With a focus on data science and machine learning, I am committed to making a po
 ### 💻 Programming
 
 [![Python](https://img.shields.io/badge/Python-3.9.4-blue.svg)](https://www.python.org/downloads/release/python-394/)
+[![PySpark](https://img.shields.io/badge/PySpark-3.2.1-blue.svg)](https://spark.apache.org/docs/latest/api/python/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green.svg)](https://pandas.pydata.org/)
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
