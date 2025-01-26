@@ -185,12 +185,20 @@ With a focus on data science and machine learning, I am committed to making a po
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-<!--
+
 ![Chaitanya Chaudhari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaC22&show_icons=true&theme=midnight-purple)
+
+<!--
 <br>
 ![Snake animation](https://github.com/ChaitanyaC22/ChaitanyaC22/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaitanyaC22/ChaitanyaC22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChaitanyaC22/ChaitanyaC22/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChaitanyaC22/ChaitanyaC22/output/github-snake.svg" />
+</picture>
 
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
