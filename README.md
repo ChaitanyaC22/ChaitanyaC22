@@ -185,7 +185,20 @@ With a focus on data science and machine learning, I am committed to making a po
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Chaitanya Chaudhari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaC22&show_icons=true)
+<picture>
+  <!-- Chaitanya Chaudhari’s GitHub stats for Light Mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=ChaitanyaC22&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)" />
+  <!-- Chaitanya Chaudhari’s GitHub stats for Dark Mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=ChaitanyaC22&show_icons=true&theme=tokyonight" 
+    media="(prefers-color-scheme: dark)" />
+  <!-- Fallback if media queries are not supported -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ChaitanyaC22&show_icons=true&theme=default" 
+    alt="Chaitanya Chaudhari’s GitHub stats" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaitanyaC22/ChaitanyaC22/output/github-snake-dark.svg" />
