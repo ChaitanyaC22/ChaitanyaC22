@@ -20,7 +20,7 @@ Welcome to my GitHub profile 🙏🏼
 
 💬 **Contemplating:** *Exploring the enigmatic realm of data's hidden symphony.*
 
-📧 **Reach Out:** *Contact me via email at cchaudha@usc.edu.*
+📧 **Reach Out:** *Contact me via email at cdcchaudhari.colab@gmail.com*
 
 ⚡ **Zephyr-chaser:** *Pursuing diverse data realms with a whimsical flair!*
 
